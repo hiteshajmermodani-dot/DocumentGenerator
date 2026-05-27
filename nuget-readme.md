@@ -1,4 +1,4 @@
-# DocumentGenerator
+# DocumentGeneratorLib
 
 A powerful .NET library for creating and managing documents across multiple formats.
 
@@ -11,21 +11,21 @@ A powerful .NET library for creating and managing documents across multiple form
 
 ## Installation
 
-Install DocumentGenerator via NuGet Package Manager:
+Install DocumentGeneratorLib via NuGet Package Manager:
 
 ### .NET CLI
 ```bash
-dotnet add package DocumentGenerator
+dotnet add package DocumentGeneratorLib
 ```
 
 ### Package Manager Console
 ```powershell
-Install-Package DocumentGenerator
+Install-Package DocumentGeneratorLib
 ```
 
 ### PackageReference
 ```xml
-<PackageReference Include="DocumentGenerator" Version="1.0.0" />
+<PackageReference Include="DocumentGeneratorLib" Version="1.0.0" />
 ```
 
 ## Quick Start
@@ -67,16 +67,16 @@ pdf.SetHeader("My Company")
 
 ## Documentation
 
-For detailed documentation, examples, and API reference, please visit the [GitHub repository](https://github.com/hiteshmodani/DocumentGenerator).
+For detailed documentation, examples, and API reference, please visit the [GitHub repository](https://github.com/hiteshajmermodani-dot/DocumentGenerator).
 
 ## Support
 
-- 📧 **Issues**: Report bugs or request features on [GitHub Issues](https://github.com/hiteshmodani/DocumentGenerator/issues)
-- 💬 **Discussions**: Join the community on [GitHub Discussions](https://github.com/hiteshmodani/DocumentGenerator/discussions)
+- 📧 **Issues**: Report bugs or request features on [GitHub Issues](https://github.com/hiteshajmermodani-dot/DocumentGenerator/issues)
+- 💬 **Discussions**: Join the community on [GitHub Discussions](https://github.com/hiteshajmermodani-dot/DocumentGenerator/discussions)
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/hiteshmodani/DocumentGenerator/blob/main/LICENSE.txt) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/hiteshajmermodani-dot/DocumentGenerator/LICENSE.txt) file for details.
 
 ## Author
 
