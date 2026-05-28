@@ -1,4 +1,3 @@
 <Solution>
   <Project Path="Sample Application/Sample Application.csproj" Id="71941049-2359-4924-aedd-eefb652d792c" />
-  <Project Path="DocumentGenerator/DocumentGenerator.csproj" />
 </Solution>

@@ -11,21 +11,21 @@ A powerful .NET library for creating and managing documents across multiple form
 
 ## Installation
 
-Install DocumentGenerator via NuGet Package Manager:
+Install DocxPDFGeneratorLib via NuGet Package Manager:
 
 ### .NET CLI
 ```bash
-dotnet add package DocumentGenerator
+dotnet add package DocxPDFGeneratorLib
 ```
 
 ### Package Manager Console
 ```powershell
-Install-Package DocumentGenerator
+Install-Package DocxPDFGeneratorLib
 ```
 
 ### PackageReference
 ```xml
-<PackageReference Include="DocumentGenerator" Version="1.0.0" />
+<PackageReference Include="DocxPDFGeneratorLib" Version="1.0.0" />
 ```
 
 ## Quick Start
@@ -76,7 +76,7 @@ For detailed documentation, examples, and API reference, please visit the [GitHu
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/hiteshmodani/DocumentGenerator/blob/main/LICENSE.txt) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/hiteshmodani/DocumentGenerator/LICENSE.txt) file for details.
 
 ## Author
 

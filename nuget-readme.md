@@ -11,21 +11,21 @@ A powerful .NET library for creating and managing documents across multiple form
 
 ## Installation
 
-Install DocumentGeneratorLib via NuGet Package Manager:
+Install DocxPDFGeneratorLib via NuGet Package Manager:
 
 ### .NET CLI
 ```bash
-dotnet add package DocumentGeneratorLib
+dotnet add package DocxPDFGeneratorLib
 ```
 
 ### Package Manager Console
 ```powershell
-Install-Package DocumentGeneratorLib
+Install-Package DocxPDFGeneratorLib
 ```
 
 ### PackageReference
 ```xml
-<PackageReference Include="DocumentGeneratorLib" Version="1.0.0" />
+<PackageReference Include="DocxPDFGeneratorLib" Version="1.0.0" />
 ```
 
 ## Quick Start
